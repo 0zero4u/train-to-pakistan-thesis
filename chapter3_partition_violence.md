@@ -170,13 +170,16 @@ Both novel and film demonstrate that Partition violence was not inevitable but m
 
 ## References
 
-- Goel, Dr Manjula. "Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences." *IJNRD*, 2022. [IJNRD220b1026.pdf]
-- "Portrayal of Violence and Horror in Train to Pakistan." [Portrayal of Violence and Horror in Train to Pakistan.pdf]
-- Shovon, Ashfaque Ahmad. "Depiction of Post-Partition Violence in Khushwant Singh's Train to Pakistan." *International Journal of English Literature and Social Sciences*, 2022. [20IJELS-111202218-Depiction.pdf]
-- "Paper35357.pdf" – "International Journal of Advanced Research in Science, Communication and Technology"
-- "Train_to_Pakistan_against_Mainstream_Rep.pdf"
-- "ijrar_issue_20542129.pdf"
-- "Partition_Violence_Displacement_and_Trauma_in_Khus.pdf"
-- "Videoing the Chaos of Evacuation in Khushwant Singh's Train to Pakistan." *LangLit*, 2020. [VIDEOING_THE_CHAOS_OF_EVACUATION_IN_KHUS.pdf]
-- "Triumph of Human Spirit in Khushwant Singh's Train to Pakistan." [Triumph of Human Spirit in Khushwant Singh s Train to Pakistan.pdf]
-- "study_material_1770263377.pdf"
+Butalia, U. (1998). *The other side of silence: Voices from the partition of India*. Penguin Books.
+
+Darlami Magar, C. B. (2024). Partition, violence, displacement and trauma in Khushwant Singh's "Train to Pakistan." *Voice: A Biannual & Bilingual Journal*, *16*(1).
+
+Goel, M. (2022). Analysis of Train to Pakistan, film adaptation from Khushwant Singh's novel: Similarities and differences. *International Journal of Novel Research and Development (IJNRD)*, *2*(2).
+
+Menon, R., & Bhasin, K. (1998). *Borders and boundaries: Women in India's partition*. Kali for Women.
+
+Shovon, A. A. (2022). Depiction of post-partition violence in Khushwant Singh's Train to Pakistan. *International Journal of English Literature and Social Sciences*, *7*(6).
+
+Srivastava, M. (2026). Communalism and moral values in Train to Pakistan by Khushwant Singh. *International Journal of Advanced Research in Science, Communication and Technology*, *6*(6).
+
+Singh, K. (1956). *Train to Pakistan*. Chatto & Windus.
