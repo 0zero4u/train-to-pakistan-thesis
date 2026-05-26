@@ -1,0 +1,88 @@
+#!/usr/bin/env python3
+"""
+MCP-style tool for querying local LightRAG PDF database.
+Works offline - no cloud dependencies.
+"""
+
+import sys
+import json
+import argparse
+import os
+import glob
+
+def query_local_rag(query, limit=5, db_path=None):
+    """
+    Query local RAG database for research papers.
+    Assumes LightRAG stores extracted text/chunks in sqlite or text files.
+    """
+    results = []
+    
+    # Default paths to check
+    search_paths = [
+        os.path.expanduser("~/thesis/rag/"),
+        os.path.expanduser("~/thesis/papers/"),
+        os.path.expanduser("~/thesis/research/"),
+        db_path or os.path.expanduser("~/thesis/")
+    ]
+    
+    for base_path in search_paths:
+        if not os.path.exists(base_path):
+            continue
+            
+        # Search for text/chunk files
+        for pattern in ["**/*.txt", "**/*.md", "**/*chunk*", "**/*embed*"]:
+            for filepath in glob.glob(os.path.join(base_path, pattern), recursive=True):
+                try:
+                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                        content = f.read()
+                        # Simple relevance check
+                        query_terms = query.lower().split()
+                        matches = sum(1 for term in query_terms if term in content.lower())
+                        if matches > 0:
+                            results.append({
+                                "file": os.path.basename(filepath),
+                                "path": filepath,
+                                "relevance_score": matches,
+                                "preview": content[:500] if len(content) > 500 else content
+                            })
+                except:
+                    continue
+    
+    # Sort by relevance and limit
+    results.sort(key=lambda x: x['relevance_score'], reverse=True)
+    return results[:limit]
+
+def list_papers(base_path=None):
+    """List all available papers in the local database."""
+    search_paths = [
+        base_path or os.path.expanduser("~/thesis/"),
+    ]
+    
+    papers = []
+    for base_path in search_paths:
+        if not os.path.exists(base_path):
+            continue
+            
+        for ext in ["pdf", "txt", "md", "typ"]:
+            papers.extend(glob.glob(os.path.join(base_path, "**", f"*.{ext}"), recursive=True))
+    
+    return [{"path": p, "name": os.path.basename(p)} for p in papers[:50]]
+
+def main():
+    parser = argparse.ArgumentParser(description="Local RAG research tool")
+    parser.add_argument("query", nargs="?", help="Search query")
+    parser.add_argument("--type", "-t", choices=["search", "list"], default="search")
+    parser.add_argument("--limit", "-l", type=int, default=5)
+    parser.add_argument("--db", "-d", help="Database path")
+    
+    args = parser.parse_args()
+    
+    if args.type == "list":
+        results = list_papers(args.db)
+    else:
+        results = query_local_rag(args.query, args.limit, args.db)
+    
+    print(json.dumps(results, indent=2))
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+"""Web search tool for OpenCode - queries GitHub API for research."""
+
+import sys
+import json
+import urllib.request
+import urllib.parse
+import argparse
+
+def search_github(query, limit=5):
+    """Search GitHub repos using their API."""
+    base_url = "https://api.github.com/search/repositories"
+    params = {
+        "q": query,
+        "per_page": limit,
+        "sort": "stars",
+        "order": "desc"
+    }
+    url = f"{base_url}?{urllib.parse.urlencode(params)}"
+    
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "OpenCode-Thesis-Research",
+        "Accept": "application/vnd.github.v3+json"
+    })
+    
+    try:
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read().decode())
+            results = []
+            for item in data.get("items", []):
+                results.append({
+                    "name": item["full_name"],
+                    "description": item.get("description", ""),
+                    "stars": item["stargazers_count"],
+                    "url": item["html_url"],
+                    "language": item.get("language", "")
+                })
+            return results
+    except Exception as e:
+        return {"error": str(e)}
+
+def search_ddg(query, limit=10):
+    """Search using DuckDuckGo HTML results."""
+    url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote(query)}"
+    
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; ThesisResearchBot/1.0)"
+    })
+    
+    try:
+        with urllib.request.urlopen(req, timeout=15) as response:
+            html = response.read().decode()
+            results = []
+            for line in html.split('\n'):
+                if 'class="result"' in line or 'class="web-result"' in line:
+                    # Simple parsing - extract URLs and titles
+                    if 'href="http' in line:
+                        start = line.find('href="') + 6
+                        end = line.find('"', start)
+                        url = line[start:end]
+                        # Find title between > and </a>
+                        title_start = line.find('>', start)
+                        title_end = line.find('</a>', title_start)
+                        if title_start > 0 and title_end > 0:
+                            title = line[title_start+1:title_end].strip()
+                            if title and '...' not in title:
+                                results.append({"title": title, "url": url})
+            return results[:limit]
+    except Exception as e:
+        return {"error": str(e)}
+
+def main():
+    parser = argparse.ArgumentParser(description="Web search for thesis research")
+    parser.add_argument("query", help="Search query")
+    parser.add_argument("--type", "-t", choices=["github", "web", "all"], default="all",
+                       help="Search type: github repos, web search, or both")
+    parser.add_argument("--limit", "-l", type=int, default=5, help="Result limit")
+    
+    args = parser.parse_args()
+    
+    results = {"query": args.query}
+    
+    if args.type in ["github", "all"]:
+        results["github"] = search_github(args.query, args.limit)
+    
+    if args.type in ["web", "all"]:
+        results["web"] = search_ddg(args.query, args.limit)
+    
+    print(json.dumps(results, indent=2))
+
+if __name__ == "__main__":
+    main()
