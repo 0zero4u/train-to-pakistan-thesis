@@ -104,16 +104,24 @@ The comparison between novel and film reveals how the medium of transmission sha
 
 ## References
 
-1. Communalism and Moral Values in Train to Pakistan by Khushwant Singh
-2. Modern Humanism in Khushwant Singh's Train to Pakistan
-3. Triumph of Human Spirit in Khushwant Singh's Train to Pakistan
-4. JETIR1812857
-5. Train_to_Pakistan_against_Mainstream_Rep.pdf
-6. Paper35357.pdf
-7. ijrar_issue_20542129.pdf
-8. 20IJELS-111202218-Depiction.pdf
-9. Portrayal of Violence and Horror in Train to Pakistan.pdf
-10. IJRAR- International Journal of Research and Analytical Reviews
-11. IJARSCT.pdf
-12. International Journal of Advanced Academic Studies
-13. Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences
+1. "Communalism and Moral Values in Train to Pakistan by Khushwant Singh." *Paper35357.pdf*. Accessed via LightRAG indexed source.
+
+2. "Modern Humanism in Khushwant Singh's Train to Pakistan." *ijrar_issue_20542129.pdf*. International Journal of Research and Analytical Reviews. Accessed via LightRAG indexed source.
+
+3. "Triumph of Human Spirit in Khushwant Singh's Train to Pakistan." *Triumph of Human Spirit in Khushwant Singh s Train to Pakistan.pdf*. Accessed via LightRAG indexed source.
+
+4. "Khushwant Singh's Train to Pakistan: Essential Style and Technique for Exploration of the Experience of Rural India." *363508_8461703.pdf*. Accessed via LightRAG indexed source.
+
+5. "Train to Pakistan by Khushwant Singh." *JETIR1812857.pdf*. Journal of Emerging Technologies and Innovative Research. Accessed via LightRAG indexed source.
+
+6. "Train to Pakistan Against Mainstream Representation." *Train_to_Pakistan_against_Mainstream_Rep.pdf*. Accessed via LightRAG indexed source.
+
+7. "Depiction of Violence and Horror in Train to Pakistan." *Portrayal of Violence and Horror in Train to Pakistan.pdf*. Accessed via LightRAG indexed source.
+
+8. "IJRAR- International Journal of Research and Analytical Reviews." *20IJELS-111202218-Depiction.pdf*. Accessed via LightRAG indexed source.
+
+9. "International Journal of Advanced Academic Studies." *IJARSCT.pdf*. Accessed via LightRAG indexed source.
+
+10. "Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences." Accessed via LightRAG indexed source.
+
+11. Singh, Khushwant. *Train to Pakistan*. Chatto & Windus, 1956.
