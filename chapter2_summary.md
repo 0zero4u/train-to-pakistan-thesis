@@ -84,8 +84,11 @@ Despite these fundamental similarities, notable differences emerge in how each m
 
 ## References
 
-- Rooks, P. (Director). (1998). *Train to Pakistan* [Film]. India: Libre Pvt. Ltd.
 - Singh, K. (1956). *Train to Pakistan*. New Delhi: Penguin Books India.
-- Priyanka Gupta. "Triumph of Human Spirit in Khushwant Singh's Train to Pakistan." *Journal of Academic Research* (2023).
-- "Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences." *Academic Research Paper* (2023).
-- "Videoing the Chaos of Evacuation in Khushwant Singh's Train to Pakistan." *Academic Research Paper* (2023).
+- Rooks, P. (Director). (1998). *Train to Pakistan* [Film]. India: Libre Pvt. Ltd.
+- "[Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences]." *Academic Research Paper* (2023).
+- "[Videoing the Chaos of Evacuation in Khushwant Singh's Train to Pakistan]." *Academic Research Paper* (2023).
+- "[Khushwant Singh Novel 'Train to Pakistan': Essential Style and Technique for Exploration of the Experience of Rural India]." *Academic Research Paper* (2023).
+- "[Kushwant Sigh's Train to Pakistan and Bapsi Sidhwa's The Pakistani Bride: A Comparative Study]." *Academic Research Paper* (2023).
+- "[The Theme of Partition in Khushwant Singh's Novel Train to Pakistan]." *Academic Research Paper* (2023).
+- Shahane, V.A. *Khushwant Singh: A Novelist of Humanity*. New Delhi: Arnold Publishers, 1975.
