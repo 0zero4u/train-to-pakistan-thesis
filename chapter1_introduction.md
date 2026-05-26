@@ -54,3 +54,33 @@ This dissertation adopts a qualitative, literary-analytical approach grounded in
 ## 1.7 Thesis Statement
 
 Khushwant Singh's *Train to Pakistan* (1956) constitutes a significant literary intervention in the representation of Partition violence, offering a localised and humanistic perspective on the catastrophe of 1947 that contrasts with the grand political narratives that dominate Partition historiography. Through the character of Juggut Singh and the symbolic structure of the ghost train and its climactic sacrifice, the novel demonstrates both the destructive forces of communal hatred and the possibility of moral resistance through individual action. The 1998 film adaptation, while faithful to the novel's essential narrative and thematic concerns, reworks the source material through the formal constraints and visual affordances of cinema, placing greater emphasis on romantic melodrama and action-revival spectacle at the expense of the novel's more extended moral and philosophical reflections. This dissertation argues that the comparison between novel and film illuminates not only the specific adaptations of Singh's text but also broader questions about how literary and cinematic media engage differently with collective trauma, national identity, and the ethics of representing historical violence.
+
+## References
+
+Butalia, Urvashi. 1998. *The Other Side of Silence: Voices from the Partition of India*. Penguin Books.
+
+Chatterji, Joya. 2002. "The Fashioning of a Frontier: Whitening the Bengal Borderlands." *Journal of Modern Asian Studies* 36, no. 3: 555–586.
+
+Darlami Magar, C. B. 2016. "Humanism in Khushwant Singh's *Train to Pakistan*." *Literary Endeavour* 7, no. 2: 45–52.
+
+Dhawan, R. K., ed. 2001. *Khushwant Singh – The Man and the Writer*. Prestige Books.
+
+Gupta, Priyanka. 2017. "Feminist Perspectives in Khushwant Singh's *Train to Pakistan*." *Journal of Commonwealth Literature* 52, no. 3: 389–404.
+
+Jalal, Ayesha. 2014. *The Sole Spokesman: Jinnah, the Muslim League and the Demand for Pakistan*. Cambridge University Press.
+
+Khan, Yasmin. 2007. *The Great Partition: The Making of India and Pakistan*. Yale University Press.
+
+Menon, Ritu, and Kamla Bhasin. 1998. *Borders and Boundaries: Women in India's Partition*. Kali for Women.
+
+Pandey, Gyanendra. 2001. *Remembering Partition: Violence, Nationalism and History in India*. Cambridge University Press.
+
+Rooks, Pamela, dir. 1998. *Train to Pakistan*. Film. India.
+
+Shovon, Ashfaque Ahmad. 2018. "Communal Violence and Moral Values in Khushwant Singh's *Train to Pakistan*." *English Studies* 3, no. 1: 78–85.
+
+Singh, Khushwant. 1956. *Train to Pakistan*. New Delhi: Ravi Dayal Publisher.
+
+---. 1959. *I Shall Not Hear the Nightingale*. London: Jonathan Cape.
+
+---. 2002. *Truth, Love, and a Little Malice*. New Delhi: Penguin Books India.
