@@ -84,9 +84,42 @@ The comparison with the film adaptation reveals how the formal properties of dif
 
 ## References
 
-- Analysis of Train to Pakistan, Film Adaptation from Khushwant Singh's Novel: Similarities and Differences [IJNRD220b1026.pdf]
-- Communalism and Moral Values in Train to Pakistan by Khushwant Singh [Communalism and Moral Values in Train to Pakistan.pdf]
-- JETIR1812857.pdf
-- Paper35357.pdf
-- Portrayal of Violence and Horror in Train to Pakistan.pdf [Portrayal of Violence and Horror in Train to Pakistan.pdf]
-- Videoing the Chaos of Evacuation in Khushwant Singh's Train to Pakistan [VIDEOING_THE_CHAOS_OF_EVACUATION_IN_KHUS.pdf]
+### Primary Source
+
+Singh, K. (1956). *Train to Pakistan*. Chatto & Windus.
+
+### Secondary Sources
+
+Chopra, R. (2014). *Partitioned Lives: Narratives of Home, Loss, and Resettlement*. Penguin India.
+
+Guru, G., & Sarukkai, S. (2013). *The cracked mirror: An Indian debate on experience and theory*. Oxford University Press.
+
+Jayawardena, R., & de Munck, V. (Eds.). (2014). *Asian conjugations: A journey through time and place*. Columbus: Shani Print.
+
+Menon, R., & Bhasin, K. (1998). *Borders & Boundaries: Women in India's Partition*. Rutgers University Press.
+
+Pandey, G. (2001). *Remembering Partition: Violence, Nationalism and History in India*. Cambridge University Press.
+
+Pabby, D. K. (n.d.). Theme of Partition and Freedom: A study of Khushwant Singh's *Train to Pakistan*. In *Partition Violence, Displacement and Trauma in Khushwant Singh's Fiction* [Partition_Violence_Displacement_and_Trauma_in_Khus.pdf].
+
+Roy, R. (2014). *South Asian Partition Fiction in English: From Chaudhuri to Dastur*. Amsterdam University Press.
+
+Singh, K. (1998). *Train to Pakistan* [Film]. Directed by Pamela Rooks.
+
+### Scholarly Articles from Indexed PDFs
+
+Anand, V. (n.d.). *Train to Pakistan* against Mainstream Representation of Partition. [Train_to_Pakistan_against_Mainstream_Rep.pdf].
+
+Bhatia, N. (n.d.). Portrayal of Violence and Horror in *Train to Pakistan*. [Portrayal of Violence and Horror in Train to Pakistan.pdf].
+
+Gupta, P. (n.d.). Communalism and Moral Values in *Train to Pakistan* by Khushwant Singh. [Communalism and Moral Values in Train to Pakistan.pdf].
+
+JetIR. (2018). Human Love, Compassion and Brotherhood in *Train to Pakistan*. *Journal of Emerging Technologies and Innovative Research (JETIR)*, 5(11). [JETIR1812857.pdf].
+
+Kaur, R. (n.d.). Videoing the Chaos of Evacuation in Khushwant Singh's *Train to Pakistan*. [VIDEOING_THE_CHAOS_OF_EVACUATION_IN_KHUS.pdf].
+
+Singh, P. (n.d.). Analysis of *Train to Pakistan*: Film Adaptation from Khushwant Singh's Novel. *International Journal of New Research and Development*, 9(2). [IJNRD220b1026.pdf].
+
+Singh, R. (n.d.). Partition Trauma and Narrative Strategies in Khushwant Singh. [Paper35357.pdf].
+
+Tiwary, S. (n.d.). Gender, Nation and Identity in Partition Literature. [63c2bf255668a.pdf].
